@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @whynot404
 - 
 - 🌱 I’m currently learning Programming/IT Stuff and Anything revolutionary topics all over the world wide web
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 whynot404/whynot404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
