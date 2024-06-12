@@ -1,6 +1,9 @@
-- 👋 Hi, people of the Earth
+ 
+“What would life be if we had no courage to attempt anything?”
+― Vincent Van Gogh
+ 
   -__ 3 * & Σ ___-
--
+
 ################################################################################################
 
 In shadows deep, where light does not reach, The dark web lurks, beyond our speech.
